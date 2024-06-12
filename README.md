@@ -205,6 +205,9 @@ Lunch: tomato salad
 Dinner: beef with broccoli
 
 What would you like to do (add, show, plan, exit)?
+> save
+Saved!
+
+What would you like to do (add, show, plan, exit)?
 > exit
 Bye!
-
