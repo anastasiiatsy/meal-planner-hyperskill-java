@@ -3,7 +3,7 @@
 **Demo:**
 
 ***Example 1: planning for the week***
-
+```
 What would you like to do (add, show, plan, exit)?
 > plan
 Monday
@@ -211,3 +211,4 @@ Saved!
 What would you like to do (add, show, plan, exit)?
 > exit
 Bye!
+```
