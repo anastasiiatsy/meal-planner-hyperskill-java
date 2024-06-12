@@ -1,4 +1,4 @@
-**Meal Planner created as part of [Hyperskill] (https://hyperskill.org/projects/318) Java Backend Developer (Spring Boot) track.**
+**Meal Planner created as part of [Hyperskill](https://hyperskill.org/projects/318) Java Backend Developer (Spring Boot) track.**
 
 **Demo:**
 
